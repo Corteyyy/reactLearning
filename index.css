@@ -1,0 +1,33 @@
+.Save {
+  font-family: Calibri;
+  color: white;
+  cursor: pointer;
+  border: none;
+  margin-left: 20px;
+  margin-top: 15px;
+  padding: 10px;
+  background: #add3e6;
+}
+.Delete{
+  font-family: Calibri;
+  color: white;
+  cursor: pointer;
+  border: none;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  background: #e63956;
+}
+.Complete {
+  font-family: Calibri;
+  color: white;
+  cursor: pointer;
+  border: none;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  background: #e6c939;
+}
+.done{
+  text-decoration: line-through;
+}
